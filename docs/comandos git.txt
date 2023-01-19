@@ -1,0 +1,19 @@
+- Descargar e Instalar
+http://git-scm.com/
+
+- configurar git
+    git config --global user.name "Ramiro"
+    git config --global user.email "ramaydana@gmail.com"
+---------------------------------------------------------------
+Registrarnos en Empresas (GITHUB, GITLAB, BITBUCKET)
+ en GITHUB
+ ---------------------------------------------------------------
+ Si ya existe el repositorio (Clonar)
+     >git clone direccion_git
+si no existe el repositorio (INIT)
+     >git init
+---------------------------------------------------------------
+>git init
+>git remote add origin direccion_git
+- Crear el repositorio remoto en github (direccion_git)
+
