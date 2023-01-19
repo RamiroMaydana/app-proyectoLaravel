@@ -16,4 +16,9 @@ si no existe el repositorio (INIT)
 >git init
 >git remote add origin direccion_git
 - Crear el repositorio remoto en github (direccion_git)
+git remote add origin https://github.com/RamiroMaydana/app-proyectoLaravel.git
 
+*---------
+git add .
+git commit -m "Mi primer cambio en Laravel"
+git push origin master
