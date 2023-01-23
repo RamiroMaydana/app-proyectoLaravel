@@ -20,5 +20,7 @@ git remote add origin https://github.com/RamiroMaydana/app-proyectoLaravel.git
 
 *---------
 git add .
-git commit -m "Mi primer cambio en Laravel"
+git commit -m "Mi segundo  cambio en Laravel"
 git push origin master
+
+los 3 ultimos repetir en cada cambio
